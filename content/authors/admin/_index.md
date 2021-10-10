@@ -7,7 +7,6 @@ superuser: true
 
 # Role/position/tagline
 role: Faculty of Business Administration
-url: https://fba.um.edu.mo/
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Macau
